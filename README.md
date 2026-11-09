@@ -33,3 +33,9 @@ Create a repository named `carlos-gomez-athlete-site`, upload these files to the
 - Add GPA, academic interests and relevant test/eligibility details only with Carlos's approval.
 - Add a one-page player résumé PDF and verified recruiting email.
 - Make the first-screen highlight-film and contact links easy for college coaches to find.
+
+
+## Updated player information
+The site now includes the player profile details and achievements supplied in the recruiting sheet: full name, Class of 2027, Royal Live Oaks Academy, Right Back / Center Back, 5'10", 150 lbs, right-footed, 3.4 GPA, BETA Club, honors classes since 8th grade, club experience and listed soccer exposure/achievements.
+
+The supplied portrait has been cropped into `assets/carlos-profile.jpg`. Date of birth and personal phone number were intentionally left off the public site. Confirm permission with Carlos and his parent/guardian before publishing his email address. Highlight film and season statistics remain placeholders because they were not supplied.
